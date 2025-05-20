@@ -1,0 +1,6 @@
+so welcome to my server. I created the server today aswell as started setting up the ctf. I got openssh downloaded and running. I created the username and password for level0:level0
+I will next create the ASCII art for the level but I do not know I will import that...... will continue tomorrow! 
+
+level 0 is complete it hides the flag in the bash history and prevents the user from any other access to other files 
+
+level 1 i will make harder not sure yet but I will have to figure somthin out maybe a pcap file not sure
